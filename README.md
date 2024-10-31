@@ -2,18 +2,18 @@
 [<img src="https://raw.githubusercontent.com/tolgee/documentation/main/tolgee_logo_text.svg" alt="Tolgee" width="100" />](https://tolgee.io)
 
 ## Link
-[Live Link](https://phrase-book-five.vercel.app/)
-[dev.to](https://dev.to/mayank_mohapatra/phrasebook-with-tolgee-563g)
+[Live Link](https://expense-tracker-five-silk-80.vercel.app/)
+[dev.to](https://dev.to/mayank_mohapatra/creating-a-multilingual-expense-tracker-with-tolgee-445a)
 
 ##
 Here i used `tolgee` with `next.js` app router.
 based on `next14` app folder with `tolgee` and `next-intl` package.
 
 ## Features
-Elegent UI
-Multilingual Support
-Dark Mode and Light Mode
-Mobile Friendliness
+- **Elegant UI**: Clean and modern design.
+- **Multilingual Support**: Easily switch between multiple languages.
+- **Dark Mode and Light Mode**: Toggle between dark and light themes.
+- **Mobile Friendliness**: Fully responsive design for mobile devices.
 
 ## Setup
 
